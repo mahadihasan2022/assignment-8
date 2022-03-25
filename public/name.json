@@ -1,0 +1,93 @@
+[
+    {
+      "id": "1a2b4",
+      "category": "Smart-Phone",
+      "name": "Samsung Galaxy Note 8",
+      "brand": "Sumsung",
+      "price": 45000,
+      "stock": 52,
+      "img": "https://www.gizmochina.com/wp-content/uploads/2018/02/Galaxy-Note-8-render-leak-11-600x558.jpg",
+      "quantity": 0
+    },
+    {
+      "id": "1a3b4",
+      "category": "Smart-Phone",
+      "name": "Samsung Galaxy Note 10pro",
+      "brand": "Sumsung",
+      "price": 85000,
+      "stock": 20,
+      "img": "https://www.xda-developers.com/files/2019/06/smsung-galaxy-note-10-pro-render-featured_.jpg",
+      "quantity": 0
+    },
+    {
+      "id": "1a4b6",
+      "category": "Smart-Phone",
+      "name": "Samsung Galaxy Note 9",
+      "brand": "Sumsung",
+      "price": 55000,
+      "stock": 32,
+      "img": "https://www.samsung.com/global/galaxy/galaxy-note9/images/galaxy-note9-share-image.jpg",
+      "quantity": 0
+    },
+    {
+      "id": "1a4b6",
+      "category": "Smart-Phone",
+      "name": "Samsung Galaxy M20",
+      "brand": "Sumsung",
+      "price": 15000,
+      "stock": 25,
+      "img": "https://www.mobiledokan.co/wp-content/uploads/2019/01/Samsung-Galaxy-M20.jpg",
+      "quantity": 0
+    },
+    {
+      "id": "1abc4",
+      "category": "Smart-Phone",
+      "name": "Samsung Galaxy S20 ultra",
+      "brand": "Sumsung",
+      "price": 65000,
+      "stock": 20,
+      "img": "https://www.gizmochina.com/wp-content/uploads/2020/02/Samsung-Galaxy-S20-Ultra.jpg",
+      "quantity": 0
+    },
+    {
+      "id": "1a12b4",
+      "category": "Smart-Phone",
+      "name": "Vivo 91C",
+      "brand": "Vivo",
+      "price": 45000,
+      "stock": 22,
+      "img": "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1550644110487/eab6c7c10d0e39d443f7fa879acedd7f.png",
+      "quantity": 0
+    },
+    {
+      "id": "1a8b4",
+      "category": "Smart-Phone",
+      "name": "Samsung Galaxy Zero",
+      "brand": "Sumsung",
+      "price": 25000,
+      "stock": 26,
+      "img": "https://mobilekoto.com/wp-content/uploads/2021/06/Samsung-Galaxy-Zero-Max.jpg",
+      "quantity": 0
+    },
+    {
+      "id": "1a9b4",
+      "category": "Smart-Phone",
+      "name": "Samsung Galaxy J7pro",
+      "brand": "Sumsung",
+      "price": 15000,
+      "stock": 20,
+      "img": "https://www.gizmochina.com/wp-content/uploads/2017/06/Samsung-Galaxy-J7-Pro.jpg",
+      "quantity": 0
+    },
+    {
+      "id": "1a0b4",
+      "category": "Smart-Phone",
+      "name": "Samsung Galaxy A3",
+      "brand": "Sumsung",
+      "price": 22000,
+      "stock": 32,
+      "img": "https://drop.ndtv.com/TECH/product_database/images/10312014102248AM_635_samsung_galaxy_a3.jpeg",
+      "quantity": 0
+    }
+ ]
+    
