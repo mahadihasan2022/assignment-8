@@ -11,12 +11,12 @@ const Product = (props) => {
   return (
     <div className="product">
       <img src={img} alt=""></img>
-      <div className="product-details">
+    <div className="product-details">
       <p className="product-name">Model:{name}</p>
       <p>Brand:{brand}</p>
       <p>price:{price}</p>
       <p>Product Key:{id}</p>
-      </div>
+    </div>
       <button onClick={() => handleAddToCart(product)} className="btn-cart">
           <p className="btn-text"> Add to Cart</p>
           <FontAwesomeIcon icon={faShoppingCart}></FontAwesomeIcon>
