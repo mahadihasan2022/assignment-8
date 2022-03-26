@@ -12,7 +12,7 @@
     {
       "id": "1a3b4",
       "category": "Smart-Phone",
-      "name": "Samsung Galaxy Note 10pro",
+      "name": "Samsung Galaxy Note 10",
       "brand": "Sumsung",
       "price": 85000,
       "stock": 20,
@@ -20,7 +20,7 @@
       "quantity": 0
     },
     {
-      "id": "1a4b6",
+      "id": "1a9b6",
       "category": "Smart-Phone",
       "name": "Samsung Galaxy Note 9",
       "brand": "Sumsung",
