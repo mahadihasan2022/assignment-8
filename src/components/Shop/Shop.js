@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import Cart from '../Cart/Cart';
 import Product from '../Product/Product';
 import'./Shop.css'
 
@@ -18,9 +19,9 @@ fetch('name.json')
         setCart(newCart);
     }
     return (
-        <div>
+     <div>
             <h1 className='container'>Buy Your Phone</h1>
-            <div className='shop-container'>
+        <div className='shop-container'>
             <div className="products-container">
               {
                   products.map(product=> <Product 
@@ -31,11 +32,11 @@ fetch('name.json')
               }
             </div>
             <div className="cart-container">
-                <h3>Selected Phones:{cart.length}</h3>
+                <Cart cart={cart}></Cart>
             </div>
         </div>
-        </div>
-    );
-};
+     </div>
+    )
+}
 
 export default Shop;

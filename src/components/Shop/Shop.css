@@ -10,4 +10,10 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 10px;
+  background-color: rgb(243, 240, 237);
+}
+.cart-container {
+  background-color: rgb(224, 182, 127);
+  border-radius: 8px;
+  text-align: center;
 }
